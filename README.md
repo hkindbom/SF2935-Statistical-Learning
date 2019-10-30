@@ -13,12 +13,13 @@ Evaluating the following classifiers:
 * QDA
 * LDA
 * Logistic Regression
+* KNN
 
 ## Project 2
 Evaluating the following classifiers:
 * SVC
 * SVM (different kernels)
-* Decision Trees
+* Decision Trees (Random Forest)
 
 Authors:
 Hannes Kindbom & Viktor Reineck
