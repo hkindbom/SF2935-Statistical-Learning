@@ -5,7 +5,7 @@ Both projects are based on the auto dataset, which contains characteristics of s
 Additionally, classification was performed on a synthetic multivariate Gaussian sample.  
 
 ### Tools
-**Python 3**
+**Python 3**:
 *scikit-learn*, *numpy*, *pandas*, *matplotlib* 
 
 ## Project 1
