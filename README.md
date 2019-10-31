@@ -19,7 +19,7 @@ Evaluating the following classifiers:
 Evaluating the following classifiers:
 * SVC
 * SVM (different kernels)
-* Decision Trees (Random Forest)
+* Decision Trees 
 
 Authors:
 Hannes Kindbom & Viktor Reineck
